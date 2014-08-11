@@ -17,9 +17,9 @@ Instrucciones para ejecutar la aplicación
 Si tenés huayra en tu equipo, podés usar la aplicación
 realizando estos 3 comandos desde un terminal:
 
-  git clone https://github.com/hugoruscitti/huayra-mapas.git
-  cd huayra-mapas
-  nw src
+    git clone https://github.com/hugoruscitti/huayra-mapas.git
+    cd huayra-mapas
+    nw src
 
 En otros sistemas tendrías que bajar
 [node-webkit](https://github.com/rogerwang/node-webkit) e integrarlo
